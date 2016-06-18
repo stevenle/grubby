@@ -1,5 +1,5 @@
 {
-  "name": "@stevenle/grubby",
+  "name": "grubby",
   "version": "0.0.1",
   "description": "grubby - A command-line client for calling grpc services.",
   "repository": {

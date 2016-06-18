@@ -14,7 +14,7 @@ grubby --endpoint=localhost:50051 \
 #### Installation
 
 ```bash
-npm install -g stevenle/grubby
+npm install -g grubby
 ```
 
 
