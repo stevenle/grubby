@@ -1,0 +1,25 @@
+{
+  "name": "@stevenle/grubby",
+  "version": "0.0.1",
+  "description": "grubby - A command-line client for calling grpc services.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenle/grubby.git"
+  },
+  "keywords": [
+    "grpc"
+  ],
+  "author": "Steven Le <stevenle08@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stevenle/grubby/issues"
+  },
+  "homepage": "https://github.com/stevenle/grubby#readme",
+  "bin": {
+    "grubby": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "grpc": "^0.14.1"
+  }
+}
