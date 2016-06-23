@@ -1,6 +1,6 @@
 {
   "name": "grubby",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "grubby - A command-line client for calling grpc services.",
   "repository": {
     "type": "git",
