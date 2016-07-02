@@ -19,6 +19,8 @@
  * @author stevenle08@gmail.com (Steven Le)
  */
 
+'use strict';
+
 var app = require('commander');
 var fs = require('fs');
 var grpc = require('grpc');
